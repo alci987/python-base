@@ -23,7 +23,7 @@ Execução:
 
 # metadados usando dunder
 __version__ = "0.0.1"
-__author__ = "Alciliano da Silva Lima"
+__author__ = "Alciliano"
 __license__ = "Unlicense"
 
 # area de imports

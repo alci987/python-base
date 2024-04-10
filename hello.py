@@ -32,7 +32,7 @@ import os  # para ler as variaveis de ambiente
 # caso LANG não esteja setada, current_language = "pt_BR"
 current_language = os.getenv("LANG", "pt_BR")[:5]  # as 5 primeiras letras
 
-msg = "Hello, World!"
+msg = "Hello, World! from ubuntu"
 
 if current_language == "pt_BR":
     msg = "Olá, mundo!"
